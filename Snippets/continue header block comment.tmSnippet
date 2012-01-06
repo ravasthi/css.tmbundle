@@ -4,8 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>
-| $0
-</string>
+| $0</string>
 	<key>disableAutoIndent</key>
 	<true/>
 	<key>keyEquivalent</key>
