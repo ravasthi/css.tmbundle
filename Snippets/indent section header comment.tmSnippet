@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-----$0</string>
+	<key>keyEquivalent</key>
+	<string>	</string>
+	<key>name</key>
+	<string>indent section header comment</string>
+	<key>scope</key>
+	<string>comment.block.section.header.css, comment.block.section.header.scss</string>
+	<key>uuid</key>
+	<string>DBB716D8-9636-4245-A858-0D806DA67B3F</string>
+</dict>
+</plist>
