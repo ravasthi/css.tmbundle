@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>max-height: $1;$0</string>
+	<key>name</key>
+	<string>max-height</string>
+	<key>scope</key>
+	<string>source.css, source.scss</string>
+	<key>tabTrigger</key>
+	<string>maxh</string>
+	<key>uuid</key>
+	<string>529C3236-642D-416C-80AF-8459EE51464B</string>
+</dict>
+</plist>
