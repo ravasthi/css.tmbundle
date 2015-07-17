@@ -283,7 +283,7 @@ end
 	<key>outputLocation</key>
 	<string>replaceSelection</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>uuid</key>
 	<string>53C3AD39-B25F-4BC9-AF30-40FD8C56453B</string>
 </dict>
