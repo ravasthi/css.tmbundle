@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media (max-width: ${1:${2:480}px})
+{
+  $0
+}</string>
+	<key>name</key>
+	<string>@media with max size</string>
+	<key>scope</key>
+	<string>source.css, source.scss, source.less</string>
+	<key>tabTrigger</key>
+	<string>@msx</string>
+	<key>uuid</key>
+	<string>953D8791-1B6B-42B1-A9FA-FF8367C918C2</string>
+</dict>
+</plist>
