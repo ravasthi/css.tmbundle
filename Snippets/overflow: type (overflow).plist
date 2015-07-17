@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>overflow: type</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>tabTrigger</key>
 	<string>ov</string>
 	<key>uuid</key>

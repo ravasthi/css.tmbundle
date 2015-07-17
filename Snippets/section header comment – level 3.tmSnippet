@@ -9,7 +9,7 @@ $0</string>
 	<key>name</key>
 	<string>section header comment - level 3</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>tabTrigger</key>
 	<string>/sh3</string>
 	<key>uuid</key>

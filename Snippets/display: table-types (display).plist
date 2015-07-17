@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>display: table-types</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>tabTrigger</key>
 	<string>dt</string>
 	<key>uuid</key>

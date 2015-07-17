@@ -11,7 +11,7 @@ $0
 	<key>name</key>
 	<string>TOC header comment</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>tabTrigger</key>
 	<string>/toc</string>
 	<key>uuid</key>

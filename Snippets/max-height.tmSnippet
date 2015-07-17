@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>max-height</string>
 	<key>scope</key>
-	<string>source.css, source.scss</string>
+	<string>source.css, source.scss, source.less</string>
 	<key>tabTrigger</key>
 	<string>maxh</string>
 	<key>uuid</key>
