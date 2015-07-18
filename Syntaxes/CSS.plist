@@ -354,7 +354,7 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.comment.css</string>
+					<string>punctuation.definition.comment.header.css</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -371,7 +371,7 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.comment.css</string>
+					<string>punctuation.definition.comment.header.section.css</string>
 				</dict>
 			</dict>
 			<key>end</key>
