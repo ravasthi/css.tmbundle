@@ -377,7 +377,7 @@
 			<key>end</key>
 			<string>\*/</string>
 			<key>name</key>
-			<string>comment.block.section.header.css</string>
+			<string>comment.block.header.section.css</string>
 		</dict>
 		<key>media-query</key>
 		<dict>

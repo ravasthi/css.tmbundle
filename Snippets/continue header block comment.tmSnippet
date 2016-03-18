@@ -12,7 +12,7 @@
 	<key>name</key>
 	<string>continue header block comment</string>
 	<key>scope</key>
-	<string>comment.block.header.css, comment.block.section.header.css, comment.block.header.scss, comment.block.section.header.scss</string>
+	<string>comment.block.header.css, comment.block.header.section.css, comment.block.header.scss, comment.block.header.section.scss</string>
 	<key>uuid</key>
 	<string>C09A660F-1957-4491-AC14-00A323350673</string>
 </dict>
