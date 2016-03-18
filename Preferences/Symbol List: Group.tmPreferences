@@ -5,13 +5,13 @@
 	<key>name</key>
 	<string>Symbol List: Group</string>
 	<key>scope</key>
-	<string>source.css comment.block.css -source.css.embedded</string>
+	<string>source.css comment.block.header.section -source.css.embedded</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
 		<integer>1</integer>
 		<key>symbolTransformation</key>
-		<string>s/\s*\/\*\-+\[([ \d\w]+)\]\-*.*\*\//----------$1----------/g</string>
+		<string>s/\s*\/\*\-+\[([ \d\w]+)\]\-*\s*\*\//----------$1----------/g</string>
 	</dict>
 	<key>uuid</key>
 	<string>096894D8-6A5A-4F1D-B68C-782F0A850E52</string>
