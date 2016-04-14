@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media (min-width: ${1:${2:480}px})
-{
+	<string>@media (min-width: ${1:${2:480}px}) {
   $0
 }</string>
 	<key>name</key>
