@@ -9,22 +9,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>\n+</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string>\n</string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -34,22 +26,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>[ \t]+</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string> </string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -59,22 +43,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>(?m)([;:])\s+</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string>$1</string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -84,22 +60,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>\s*}\s*</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string>}\n</string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -109,22 +77,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>\s*{\s*</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string>{</string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -134,22 +94,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>[ \t]*,[ \t]*</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
 				<key>replaceString</key>
 				<string>,</string>
-				<key>wrapAround</key>
-				<true/>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
@@ -159,20 +111,14 @@
 			<dict>
 				<key>action</key>
 				<string>replaceAll</string>
-				<key>findInProjectIgnoreCase</key>
-				<true/>
-				<key>findInProjectRegularExpression</key>
-				<false/>
 				<key>findString</key>
 				<string>^\s+</string>
-				<key>ignoreCase</key>
-				<true/>
 				<key>regularExpression</key>
 				<true/>
 				<key>replaceAllScope</key>
 				<string>selection</string>
-				<key>wrapAround</key>
-				<true/>
+				<key>replaceString</key>
+				<string></string>
 			</dict>
 			<key>command</key>
 			<string>findWithOptions:</string>
